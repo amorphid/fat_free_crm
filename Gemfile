@@ -41,7 +41,6 @@ gem 'premailer', :require => false
 remove 'fat_free_crm'
 
 group :development do
-  gem 'thin'
   gem 'quiet_assets'
   gem 'capistrano'
   gem 'capistrano_colors'
